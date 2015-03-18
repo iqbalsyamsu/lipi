@@ -1,0 +1,2 @@
+# lipi
+Scratch codes, exercise
